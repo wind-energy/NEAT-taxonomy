@@ -15,7 +15,7 @@ Currently, the taxonomy is implemented in [DTU Data](https://data.dtu.dk/DTU_Win
 
 The taxonomy is intended to be used and further developed by the community. Therefore, we welcome collaborators willing to take part in the further development of the taxonomy. If you are one of them please do so via GitHub by making pull requests and/or posting issues or requesting to become maintainer/developer of the taxonomy.
 
-Specifically, to provide inputs to the taxonomy all you need to do is to update/modify (Excel sheet)[./taxonomy.xlsx], the rest is taken care of by the automatic workflow which on every update and corresponding push of the sheet to GitHub will:
+Specifically, to provide inputs to the taxonomy all you need to do is to update/modify [Excel sheet](./taxonomy.xlsx), the rest is taken care of by the automatic workflow which on every update and corresponding push of the sheet to GitHub will:
 
 - Convert Excel file to RDF (turns Excel based taxonomy to machine-actionable form)
 - Validate the converted taxonomy
