@@ -13,5 +13,5 @@ Currently, the taxonomy is implemented in [DTU Data](https://data.dtu.dk/DTU_Win
 
 # Contribute
 
-The taxonomy is intended to be used by the community and we welcome collaborators willing to extend them and improve them. If you want to take an active part please do so via GitHub by making pull requests and/or posting issues.
+The taxonomy is intended to be used and further developed by the community. Therefore, we welcome collaborators willing to take part in the futher development of the taxonomy. If you are one of them please do so via GitHub by making pull requests and/or posting issues or requesting to become maintainer/developer of the taxonomy.
 
