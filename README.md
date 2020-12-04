@@ -21,4 +21,4 @@ Specifically, to provide inputs to the taxonomy all you need to do is to update/
 - Validate the converted taxonomy
 - Deploy the taxonomy to OntoStack to be served at http://data.windenergy.dtu.dk/ontologies/view/
 
-For the above workflow to function accordingly **DO NOT CHANGE THE FORM OF THE SHEET**, only update appropriate cells, or insert additional rows to define new terms in taxonomy.
+For the above workflow to function accordingly **DO NOT CHANGE THE FORM OF THE SHEET**, only update appropriate cells, or insert additional rows to define new terms in the taxonomy.
