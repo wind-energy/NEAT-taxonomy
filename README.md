@@ -41,4 +41,4 @@ The taxonomy is implemented in:
 
 # Contribute
 
-The taxonomy is intended to be used and further developed by the community. Therefore, we welcome collaborators willing to take part in the further development of the taxonomy. If you are one of them either request to become one of the taxonomy admin and/or post GitHub issues.
+The taxonomy is intended to be used and further developed by the community. Therefore, we welcome collaborators willing to take part in the further development of the taxonomy. If you are one of them either request to become one of the taxonomy admins and/or post GitHub issues on what we can improve in the current taxonomy.
