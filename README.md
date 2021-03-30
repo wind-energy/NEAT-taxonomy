@@ -1,3 +1,5 @@
+[![CI](https://github.com/wind-energy/taxonomy-topics/workflows/Sheet2RDF/badge.svg)](https://github.com/wind-energy/taxonomy-topics/actions?query=workflow%3ASheet2RDF)
+
 # Wind energy taxonomy of topics
 
 Controlled vocabularies such as taxonomies allow an accurate and controlled approach in describing datasets. One of such controlled vocabulary is Wind Energy Taxonomy of Topics. This taxonomy is the result of EERA JP WIND IRPWind Open Data initiative that took place in 2017 in which wind energy experts generated the first version of the taxonomy as an input for defining and structuring [wind energy metadata](https://zenodo.org/record/4013191).
