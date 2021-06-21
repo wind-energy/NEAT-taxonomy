@@ -1,6 +1,6 @@
 [![CI](https://github.com/wind-energy/taxonomy-topics/workflows/Sheet2RDF/badge.svg)](https://github.com/wind-energy/taxonomy-topics/actions?query=workflow%3ASheet2RDF)
 
-# Wind energy taxonomy of topics
+# NEAT: wi**N**d **E**nergy t**A**xonomy of **T**opics
 
 Controlled vocabularies such as taxonomies allow an accurate and controlled approach in describing datasets. One of such controlled vocabulary is Wind Energy Taxonomy of Topics. This taxonomy is the result of EERA JP WIND IRPWind Open Data initiative that took place in 2017 in which wind energy experts generated the first version of the taxonomy as an input for defining and structuring [wind energy metadata](https://zenodo.org/record/4013191).
 
@@ -32,6 +32,9 @@ Some of OntoStack micro-services are:
 - [Jena Fuseki](https://jena.apache.org/documentation/fuseki2/) a graph database
 - [SKOSMOS](http://www.skosmos.org/) a web-based SKOS browser acting as a front-end for the vocabularies persisted by the graph database
 - [Træfik](https://doc.traefik.io/traefik/) an edge router responsible for proper serving of URL requests
+
+Wind Enerty Taxonomy of Topics is served by DTU Wind Energy instance of `OntoStack`:
+https://data.windenergy.dtu.dk/ontologies/view
 
 # Taxonomy implementation
 The taxonomy is implemented in following services:
