@@ -36,7 +36,7 @@ Some of OntoStack micro-services are:
 # Taxonomy implementation
 The taxonomy is implemented in following services:
 - [DTU Data](https://data.dtu.dk/DTU_Wind_Energy)
-- [CEDAR](cedar.metadatacenter.org/) through integration with [BioPortal](https://bioportal.bioontology.org/ontologies/WETAXTOPICS/)
+- [CEDAR](http://cedar.metadatacenter.org/) through integration with [BioPortal](https://bioportal.bioontology.org/ontologies/WETAXTOPICS/)
 - [NEWA Microscale Atlas data access point](https://wps.neweuropeanwindatlas.eu/api/microscale-atlas/v1/docs)
 - [NEWA Mesoscale Atlas data access point](https://wps.neweuropeanwindatlas.eu/api/mesoscale-atlas/v1/docs)
 
