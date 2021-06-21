@@ -21,7 +21,7 @@
 <http://data.windenergy.dtu.dk/controlled-terminology/taxonomy-topics/> a skos:ConceptScheme;
   dct:creator <http://orcid.org/0000-0002-9381-9693>, <http://orcid.org/0000-0003-4124-9040>;
   dct:description "A taxonomical organization of research topics in wind energy which follows a typical lifecycle of wind farm development."@en;
-  dct:title "Taxonomy of Research Topics in Wind Energy"@en;
+  dct:title "NEAT: Wind Energy tAxonomy of Topics"@en;
   pav:createdOn "2020-12-01T00:00:00+01:00"@en;
   pav:lastUpdatedOn "2020-12-01T00:00:00+01:00"@en;
   pav:version "0.1"@en;
