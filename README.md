@@ -17,13 +17,11 @@ In 2020, the definition of taxonomy terms were added and the taxonomy was conver
 
 This repository hosts automatic workflow, executed by means of Github actions, and underlying shell and python scripts which:
 
-- Fetches Google Sheet, containing the taxonomy terms and their defitions, from Google Drive and stores is at `xlsx` and `csv` files
+- [Fetches Google Sheet](https://docs.google.com/spreadsheets/d/1dvfNjJODfhb7vEW0bNmKCz7ae8dXGqOAxEjSita6cls/edit#gid=1404619820), containing the taxonomy terms and their defitions, from Google Drive and stores is at `xlsx` and `csv` files
 - Converts fetched sheet to machine-actionable and FAIR RDF vocabulary using [xls2rdf](https://github.com/sparna-git/xls2rdf)
 - Tests the resulting RDF vocabulary using [qSKOS](https://github.com/cmader/qSKOS/)
 - Commits conversion results and tests logs to this repository
 - and deploy RDF vocabulary to OntoStack to be served to humans and machines
-
-This workflow is an extension of [excel2rdf](https://github.com/fair-data-collective/excel2rdf-template).
 
 ## [OntoStack](http://data.windenergy.dtu.dk/ontologies/view/)
 
@@ -36,10 +34,11 @@ Some of OntoStack micro-services are:
 - [Træfik](https://doc.traefik.io/traefik/) an edge router responsible for proper serving of URL requests
 
 # Taxonomy implementation
-The taxonomy is implemented in:
+The taxonomy is implemented in following services:
 - [DTU Data](https://data.dtu.dk/DTU_Wind_Energy)
 - [CEDAR](cedar.metadatacenter.org/) through integration with [BioPortal](https://bioportal.bioontology.org/ontologies/WETAXTOPICS/)
-- ~~[ShareWind](https://sharewind.eu/)~~
+- [NEWA Microscale Atlas data access point](https://wps.neweuropeanwindatlas.eu/api/microscale-atlas/v1/docs)
+- [NEWA Mesoscale Atlas data access point](https://wps.neweuropeanwindatlas.eu/api/mesoscale-atlas/v1/docs)
 
 # Contribute
 
